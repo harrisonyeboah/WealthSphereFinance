@@ -1,0 +1,1211 @@
+{
+  "data": [
+    {
+      "id": "4392490",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-03T17:50:02-05:00",
+        "isLockedPro": false,
+        "commentCount": 2,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150316505/image_1150316505.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Top S&P, Nasdaq winners as Wall Street breaks losing streak with 2025 action underway",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "60268795",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4392490-stocks-sp500-nasdaq-top-winners-wall-street-breaks-losing-streak-investing-markets"
+      }
+    },
+    {
+      "id": "4392381",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-03T15:00:09-05:00",
+        "isLockedPro": false,
+        "commentCount": 7,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/811478302/image_811478302.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Catalyst Watch: CES, M&A votes and the Supreme Court tackles the TikTok case",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4392381-catalyst-watch-ces-ma-votes-and-the-supreme-court-tackles-the-tiktok-case"
+      }
+    },
+    {
+      "id": "4392408",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-03T13:52:00-05:00",
+        "isLockedPro": false,
+        "commentCount": 24,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2042772547/image_2042772547.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Evercore ISI predicts Tech will lead the S&P 500 to another 20% upside year in 2025",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "53367831",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "764439",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4392408-evercore-isi-predicts-tech-will-lead-the-sp-500-to-another-20-upside-year-in-2025"
+      }
+    },
+    {
+      "id": "4392379",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-03T11:20:51-05:00",
+        "isLockedPro": false,
+        "commentCount": 10,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1173843573/image_1173843573.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Best and worst performing S&P 500 stocks in a rosy year for index",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "54434154",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "764439",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4392379-best-and-worst-performing-sp-500-stocks-in-a-rosy-year-for-index"
+      }
+    },
+    {
+      "id": "4392206",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-03T03:56:51-05:00",
+        "isLockedPro": false,
+        "commentCount": 72,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/545144494/image_545144494.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Tesla China sales hit record high level in December",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "51785401",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "777530",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4392206-tesla-china-sales-hit-record-high-level-in-december"
+      }
+    },
+    {
+      "id": "4392099",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-02T14:31:07-05:00",
+        "isLockedPro": false,
+        "commentCount": 17,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2177874163/image_2177874163.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Lyft an attractive acquisition target for Amazon's robotaxi ambitions",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "59695326",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4392099-lyft-attractive-acquisition-target-for-amazon-robotaxi-ambitions"
+      }
+    },
+    {
+      "id": "4392089",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-02T13:19:25-05:00",
+        "isLockedPro": false,
+        "commentCount": 7,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1688768244/image_1688768244.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Investors should look out for swing risks within the Magnificent 7 \u2013 Charles Schwab",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "59269293",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4392089-investors-should-look-out-for-swing-risks-within-the-magnificent-7-charles-schwab"
+      }
+    },
+    {
+      "id": "4392021",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-02T10:23:57-05:00",
+        "isLockedPro": false,
+        "commentCount": 147,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/81543188/image_81543188.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Tesla gained more than 50% in 2024 even as annual deliveries fell for the first time",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4392021-tesla-gained-more-than-50-in-2024-even-as-annual-deliveries-fell-for-the-first-time"
+      }
+    },
+    {
+      "id": "4391992",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-02T09:11:32-05:00",
+        "isLockedPro": false,
+        "commentCount": 230,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1030823334/image_1030823334.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Tesla falls short of Q4 and full-year deliveries expectations",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4391992-tesla-falls-short-of-q4-and-full-year-deliveries-expectations"
+      }
+    },
+    {
+      "id": "4391901",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-02T06:59:01-05:00",
+        "isLockedPro": false,
+        "commentCount": 13,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/615881342/image_615881342.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Chinese EV makers report record deliveries after lower pricing and subsidies boost demand",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4391901-chinese-ev-makers-report-record-deliveries-after-lower-pricing-and-subsidies-boost-demand"
+      }
+    },
+    {
+      "id": "4391886",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-02T05:12:08-05:00",
+        "isLockedPro": false,
+        "commentCount": 198,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192082666/image_2192082666.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Cybertruck blast driver identified; links to New Orleans attacker are growing",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "27427253",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4391886-cybertruck-blast-driver-identified-link-to-new-orleans-attacker-are-growing"
+      }
+    },
+    {
+      "id": "4391834",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2025-01-01T16:08:28-05:00",
+        "isLockedPro": false,
+        "commentCount": 184,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2124191987/image_2124191987.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Elon Musk says Tesla is investigating a Cybertruck explosion in Las Vegas (updated)",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4391834-elon-musk-says-tesla-is-investigating-a-cybertruck-explosion-in-las-vegas"
+      }
+    },
+    {
+      "id": "4391727",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-31T10:08:59-05:00",
+        "isLockedPro": false,
+        "commentCount": 60,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/547167450/image_547167450.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "S&P 500 delivers first back-to-back annual gains of more than 20% since 1998",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "56228617",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "614456",
+              "type": "tag"
+            },
+            {
+              "id": "777534",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4391727-sp-500-delivers-first-back-to-back-annual-gains-of-more-than-20-since-1998"
+      }
+    },
+    {
+      "id": "4391685",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-31T07:42:30-05:00",
+        "isLockedPro": false,
+        "commentCount": 252,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Tesla could begin 2025 with a record-setting deliveries report",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4391685-tesla-could-begin-2025-with-a-record-setting-deliveries-report"
+      }
+    },
+    {
+      "id": "4391683",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-31T07:35:56-05:00",
+        "isLockedPro": false,
+        "commentCount": 60,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1547214730/image_1547214730.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Nvidia, Microsoft lead Wedbush's top 10 tech winners for AI revolution in 2025",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "54324280",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "777536",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4391683-nvidia-microsoft-lead-wedbushs-top-10-tech-winners-for-ai-revolution-in-2025"
+      }
+    },
+    {
+      "id": "4391025",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-27T15:00:00-05:00",
+        "isLockedPro": false,
+        "commentCount": 28,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157479955/image_157479955.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Catalyst Watch: Eyes on electric vehicle deliveries, retail data and housing reads",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4391025-catalyst-watch-eyes-on-electric-vehicles-deliveries-retail-data-and-housing-reads"
+      }
+    },
+    {
+      "id": "4390958",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-26T08:03:42-05:00",
+        "isLockedPro": false,
+        "commentCount": 208,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188387321/image_2188387321.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Elon Musk says he prefers Lilly\u2019s Mounjaro over Novo\u2019s Ozempic",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "52867120",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "/news/4390958-elon-musk-prefers-lilly-mounjaro-over-novo-ozempic"
+      }
+    },
+    {
+      "id": "4390756",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-24T11:59:50-05:00",
+        "isLockedPro": false,
+        "commentCount": 30,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1207391022/image_1207391022.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "OpenAI ponders humanoid robot in quest to take AI to new level: report",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "59792192",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "764439",
+              "type": "tag"
+            },
+            {
+              "id": "777536",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4390756-openai-ponders-humanoid-robot-in-quest-to-take-ai-to-new-level-report"
+      }
+    },
+    {
+      "id": "4390759",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-24T11:56:35-05:00",
+        "isLockedPro": false,
+        "commentCount": 63,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204778/image_1140204778.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Tesla rallies into Christmas break as Q4 deliveries report looms",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "954720",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "777530",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4390759-tesla-rallies-into-christmas-break-as-q4-deliveries-report-looms"
+      }
+    },
+    {
+      "id": "4390402",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-12-24T03:55:02-05:00",
+        "isLockedPro": false,
+        "commentCount": 16,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2021524839/image_2021524839.jpg",
+        "videoPreviewUrl": null,
+        "videoDuration": null,
+        "themes": {},
+        "title": "Nasdaq 100 rebalance: Meta, Broadcom and Tesla index weighting reduced",
+        "isPaywalled": false
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "55510976",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "16123",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "764439",
+              "type": "tag"
+            },
+            {
+              "id": "777536",
+              "type": "tag"
+            }
+          ]
+        }
+      },
+      "links": {
+        "self": "/news/4390402-nasdaq-100-rebalance-meta-broadcom-tesla"
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "60268795",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 60268795,
+        "image": {
+          "small": "https://static3.seekingalpha.com/images/users_profile/060/268/795/small_pic.png?t=03ab624b4d",
+          "medium": "https://static3.seekingalpha.com/images/users_profile/060/268/795/medium_pic.png?t=4432ba5292",
+          "big": "https://static3.seekingalpha.com/images/users_profile/060/268/795/big_pic.png?t=3b0f27a4d1",
+          "extra_large": "https://static3.seekingalpha.com/images/users_profile/060/268/795/extra_large_pic.png?t=2a1b39448e"
+        },
+        "nick": "Carla Mozee, SA News Editor",
+        "bio": "",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/60268795",
+        "profileUrl": "/user/60268795"
+      }
+    },
+    {
+      "id": "16123",
+      "type": "tag",
+      "attributes": {
+        "slug": "tsla",
+        "name": "TSLA"
+      },
+      "links": {
+        "self": "/symbol/TSLA"
+      }
+    },
+    {
+      "id": "954720",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 954720,
+        "image": {
+          "small": "https://static.seekingalpha.com/images/users_profile/000/954/720/small_pic.png?t=cfb37c01e2",
+          "medium": "https://static.seekingalpha.com/images/users_profile/000/954/720/medium_pic.png?t=86908bec77",
+          "big": "https://static.seekingalpha.com/images/users_profile/000/954/720/big_pic.png?t=cf2cd10a70",
+          "extra_large": "https://static.seekingalpha.com/images/users_profile/000/954/720/extra_large_pic.png?t=218d354588"
+        },
+        "nick": "Clark Schultz, SA News Editor",
+        "bio": "Clark Schultz covers the consumer sector for Seeking Alpha as a Senior Editor. He writes the weekly Catalyst Watch preview of coming market events, the weekly Stocks to Watch article, and Wall Street Breakfast Sunday article. He graduated from Washington University in St. Louis with a degree in Economics. He has over 15 years of experience contributing content to major financial websites. In addition, he created the websites <a href=\"http://www.moneyrates.com\">MoneyRates.com</a> and Savings-Investor.com before selling them to a San Francisco-based company. Clark lives in St. Louis, Missouri with his wife and three kids. Follow on Twitter @ClarkSchultz. E-mail tips/suggestions to Clark@SeekingAlpha.com. <br>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/954720",
+        "profileUrl": "/author/sa-editor-clark-schultz"
+      }
+    },
+    {
+      "id": "53367831",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 53367831,
+        "image": {
+          "small": "https://static3.seekingalpha.com/images/users_profile/053/367/831/small_pic.png?t=bca4b64731",
+          "medium": "https://static3.seekingalpha.com/images/users_profile/053/367/831/medium_pic.png?t=866d3a9f6d",
+          "big": "https://static3.seekingalpha.com/images/users_profile/053/367/831/big_pic.png?t=0393da6afe",
+          "extra_large": "https://static3.seekingalpha.com/images/users_profile/053/367/831/extra_large_pic.png?t=636e7b8653"
+        },
+        "nick": "Jason Capul, SA News Editor",
+        "bio": "<p>Jason's role at Seeking Alpha is to uncover and bring forward news and information to the investor community that is meaningful and actionable. Specifically, his focus is on the ETF marketplace. Jason comes from a finance and entrepreneurial background with a Bachelor's degree in finance from Susquehanna University. Feel free to follow him on Seeking Alpha, Twitter, or LinkedIn.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/53367831",
+        "profileUrl": "/user/53367831"
+      }
+    },
+    {
+      "id": "54434154",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 54434154,
+        "image": {
+          "small": "https://static2.seekingalpha.com/images/users_profile/054/434/154/small_pic.png?t=3ddf4ab6ea",
+          "medium": "https://static2.seekingalpha.com/images/users_profile/054/434/154/medium_pic.png?t=3eabdc8c98",
+          "big": "https://static2.seekingalpha.com/images/users_profile/054/434/154/big_pic.png?t=8340cc8c46",
+          "extra_large": "https://static2.seekingalpha.com/images/users_profile/054/434/154/extra_large_pic.png?t=a8989ab70d"
+        },
+        "nick": "Preeti Singh, SA News Editor",
+        "bio": "<p>Preeti Singh is a Team Leader and Senior News Editor at Seeking Alpha, covering breaking news for the technology, healthcare and consumer sector. She has nearly 10 years of experience covering global corporate developments and financial earnings, producing breaking news and business insights across various industries. </p><p>She has previously worked with business intelligence firms, delivering incisive insights on multiple market trends, including in the retail, biotech, automotive and finance sectors. She graduated from West Bengal University of Technology in 2013 with a BTech degree and a specialization in chemical engineering.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/54434154",
+        "profileUrl": "/user/54434154"
+      }
+    },
+    {
+      "id": "51785401",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 51785401,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/051/785/401/small_pic.png?t=93961d3d58",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/051/785/401/medium_pic.png?t=3d3c4279ad",
+          "big": "https://static1.seekingalpha.com/images/users_profile/051/785/401/big_pic.png?t=26587d69e0",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/051/785/401/extra_large_pic.png?t=a13c286612"
+        },
+        "nick": "Manshi Mamtora, CFA, SA News Editor",
+        "bio": "<p>Manshi Mamtora is a news editor at Seeking Alpha and is based in Mumbai, India. She is a Chartered Financial Analyst and has 14 years of experience in the research and report-writing space. Her passion for markets and analysis both keep her hooked on the writing desk. She joined Seeking Alpha in June 2020, where she covers macro events, analyst ratings, fund letters, European market updates, dividends, earnings, and more. Precious metals, technology, cryptocurrencies, and derivatives are among a few other areas of expertise.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/51785401",
+        "profileUrl": "/user/51785401"
+      }
+    },
+    {
+      "id": "59695326",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 59695326,
+        "image": {
+          "small": "https://static2.seekingalpha.com/images/users_profile/059/695/326/small_pic.png?t=8c0a8bbba0",
+          "medium": "https://static2.seekingalpha.com/images/users_profile/059/695/326/medium_pic.png?t=41df55e622",
+          "big": "https://static2.seekingalpha.com/images/users_profile/059/695/326/big_pic.png?t=6003afb425",
+          "extra_large": "https://static2.seekingalpha.com/images/users_profile/059/695/326/extra_large_pic.png?t=c6d1cbebe9"
+        },
+        "nick": "Amy Thielen, SA News Editor",
+        "bio": "<p>Amy Thielen covers the consumer sector for Seeking Alpha. She has over 25 years experience as a financial journalist covering the economy, equities, foreign exchange, fixed-income, and global central banks. She earned her BS degree in economics at the University of Delaware. You can reach Amy at amy.thielen@seekingalpha.com or Twitter@ajt22. </p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/59695326",
+        "profileUrl": "/user/59695326"
+      }
+    },
+    {
+      "id": "59269293",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 59269293,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/059/269/293/small_pic.png?t=7df0102296",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/059/269/293/medium_pic.png?t=fe21f5350e",
+          "big": "https://static1.seekingalpha.com/images/users_profile/059/269/293/big_pic.png?t=58dcfb70c4",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/059/269/293/extra_large_pic.png?t=e65a704b00"
+        },
+        "nick": "Monica L. Correa, SA News Editor",
+        "bio": "<p>Monica L. Correa is a journalist with several years of experience covering real estate, local banking and finance, healthcare, and tourism, among other sectors.</p><p>Correa joined Seeking Alpha as a News Editor in 2023 to be a part of the Investor Tactics team. Her previous experience comes from Miami Today News and The Miami Herald, covering local news.</p><p>She has a Bachelor's degree in Communications and Journalism from Florida International University, with an area of focus in Political Sciences.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/59269293",
+        "profileUrl": "/user/59269293"
+      }
+    },
+    {
+      "id": "27427253",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 27427253,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/027/427/253/small_pic.png?t=e9f632c95a",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/027/427/253/medium_pic.png?t=6618fcf3d0",
+          "big": "https://static1.seekingalpha.com/images/users_profile/027/427/253/big_pic.png?t=af16e402a0",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/027/427/253/extra_large_pic.png?t=51e63d987d"
+        },
+        "nick": "Yoel Minkoff, SA News Editor",
+        "bio": "<p>Yoel Minkoff leads the Content Development team at Seeking Alpha. He also manages the company's flagship market newsletter, Wall Street Breakfast, which is enjoyed by 4 million subscribers daily. Yoel joined Seeking Alpha in 2014 after previous positions at Moody's Investors Service and Merrill Lynch, and completed his MBA at the University of Massachusetts.</p><p></p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/27427253",
+        "profileUrl": "/author/sa-editor-yoel-minkoff"
+      }
+    },
+    {
+      "id": "56228617",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 56228617,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/056/228/617/small_pic.png?t=223bf40c9c",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/056/228/617/medium_pic.png?t=ea44c9ac58",
+          "big": "https://static1.seekingalpha.com/images/users_profile/056/228/617/big_pic.png?t=27ed41c802",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/056/228/617/extra_large_pic.png?t=252fe73232"
+        },
+        "nick": "Anuron Mitra, SA News Editor",
+        "bio": "<p>Anuron is a U.S. stock market reporter for Seeking Alpha. He covers the daily Wall Street report, while also writing analysis pieces centered around equities, Treasury yields, the Federal Reserve and the U.S. economy. He is based in Bengaluru, India.</p><p>Anuron joined Seeking Alpha in March 2022 from Reuters News, where he spent nearly six years and covered U.S. breaking news, India breaking news and the health and pharmaceutical sector. </p><p>Anuron graduated from Christ University in Bengaluru in 2013 and holds a triple undergraduate degree in journalism, psychology and English. </p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/56228617",
+        "profileUrl": "/user/56228617"
+      }
+    },
+    {
+      "id": "54324280",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 54324280,
+        "image": {
+          "small": "https://static.seekingalpha.com/images/users_profile/054/324/280/small_pic.png?t=04e71ac2a1",
+          "medium": "https://static.seekingalpha.com/images/users_profile/054/324/280/medium_pic.png?t=3316705f51",
+          "big": "https://static.seekingalpha.com/images/users_profile/054/324/280/big_pic.png?t=32832e8221",
+          "extra_large": "https://static.seekingalpha.com/images/users_profile/054/324/280/extra_large_pic.png?t=b95073e72d"
+        },
+        "nick": "Ravikash Bakolia, SA News Editor",
+        "bio": "<p>Ravikash Bakolia (He/Him) is a Technology Editor at Seeking Alpha, specializing in market-moving news on tech companies across Asia, Europe, and the U.S. He brings his experience of covering the complex world of Healthcare, where he spent over six years writing about clinical trials, mergers and acquisitions, and regulatory activities related to global healthcare companies.</p><p>Ravikash joined Seeking Alpha in May 2021 after working at S&amp;P Global for over four years. He holds a Post-Graduate Diploma in Journalism and a Master of Arts in Economics, making him a well-rounded and insightful journalist who is committed to delivering in-depth analysis and informed perspectives.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/54324280",
+        "profileUrl": "/user/54324280"
+      }
+    },
+    {
+      "id": "52867120",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 52867120,
+        "image": {
+          "small": "https://static.seekingalpha.com/images/users_profile/052/867/120/small_pic.png?t=8ef4b7b559",
+          "medium": "https://static.seekingalpha.com/images/users_profile/052/867/120/medium_pic.png?t=19ed632436",
+          "big": "https://static.seekingalpha.com/images/users_profile/052/867/120/big_pic.png?t=f7e29894ed",
+          "extra_large": "https://static.seekingalpha.com/images/users_profile/052/867/120/extra_large_pic.png?t=64557d8b9a"
+        },
+        "nick": "Dulan Lokuwithana, SA News Editor",
+        "bio": "<p>Dulan is a senior news editor at Seeking Alpha and the site's healthcare team leader. Before joining the news team in 2020, he served the company as a contributor for over two years. He has previously worked as an equity research analyst at multiple consulting firms, including Moody's Analytics. His accomplishments as an analyst include foreseeing the prospects of mRNA technology and vaccine maker Moderna well before COVID-19 made headlines. A former medical student, Dulan adds industry expertise to SA's healthcare coverage with his bachelor's in human biology, CFA (US) Level I and II qualifications, and CIMA (UK) full qualification.</p><p>You've got any healthcare news-related tips? Kindly forward them to dulan@seekingalpha.com</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/52867120",
+        "profileUrl": "/user/52867120"
+      }
+    },
+    {
+      "id": "59792192",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 59792192,
+        "image": {
+          "small": "https://static.seekingalpha.com/images/users_profile/059/792/192/small_pic.png?t=0795faaf71",
+          "medium": "https://static.seekingalpha.com/images/users_profile/059/792/192/medium_pic.png?t=34a5ebddad",
+          "big": "https://static.seekingalpha.com/images/users_profile/059/792/192/big_pic.png?t=75ec929ae0",
+          "extra_large": "https://static.seekingalpha.com/images/users_profile/059/792/192/extra_large_pic.png?t=af0fa2de8d"
+        },
+        "nick": "Brandon Evans, SA News Editor",
+        "bio": "<p>I have more than 20 years of experience in journalism. Topics covered range from small-town politics and crime to analyzing energy commodities.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/59792192",
+        "profileUrl": "/author/sa-editor-brandon-evans"
+      }
+    },
+    {
+      "id": "55510976",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 55510976,
+        "image": {
+          "small": "https://static.seekingalpha.com/images/users_profile/055/510/976/small_pic.png?t=b45ec569f6",
+          "medium": "https://static.seekingalpha.com/images/users_profile/055/510/976/medium_pic.png?t=c4c215cb92",
+          "big": "https://static.seekingalpha.com/images/users_profile/055/510/976/big_pic.png?t=9e37da08af",
+          "extra_large": "https://static.seekingalpha.com/images/users_profile/055/510/976/extra_large_pic.png?t=83b98352cf"
+        },
+        "nick": "Jessica Kuruthukulangara, SA News Editor",
+        "bio": "<p>Jessica Kuruthukulangara is a Senior Editor and Team Leader, covering breaking news across sectors. She previously covered financial, macroeconomic, and cryptocurrency news at Seeking Alpha. Jessica joined Seeking Alpha from the Indian business daily The Economic Times, where she worked at the copy desk. Before that, she covered breaking news at Reuters, with a focus on consumer companies. She graduated from Manipal University in 2015, with a degree in Journalism and Mass Communication.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/55510976",
+        "profileUrl": "/user/55510976"
+      }
+    }
+  ],
+  "meta": {
+    "page": {
+      "title": "Tesla, Inc. (TSLA) Latest Stock News",
+      "description": "Get the latest news and real-time alerts from Tesla, Inc. (TSLA) stock at Seeking Alpha.",
+      "listTitle": "News",
+      "listDescription": null,
+      "proStatus": 0,
+      "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "size": 20,
+      "totalPages": 4,
+      "total": 62,
+      "minmaxPublishOn": {
+        "min": 1735030502,
+        "max": 1735944602
+      }
+    },
+    "mone": {
+      "params": {
+        "pu": ""
+      }
+    }
+  }
+}

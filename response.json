@@ -1,0 +1,150 @@
+{
+    "status": "OK",
+    "request_id": "8ede4751-6764-4b67-813f-a789bf4fb188",
+    "data": {
+        "symbol": "AMZN:NASDAQ",
+        "type": "stock",
+        "news": [
+            {
+                "article_title": "Meta and 3 More Internet Stock Picks for 2025, Says Analyst",
+                "article_url": "https://www.barrons.com/articles/meta-stock-amazon-internet-picks-bc7ae748",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbL1XDGwZk6eaIZaomB8HW6M62KBBnPlLMCRpqdnQ1HufwFAgmMTp_lAnoyjk",
+                "source": "Barron's",
+                "post_time_utc": "2025-01-03 18:03:00"
+            },
+            {
+                "article_title": "Amazon and Jabil's Game-Changing Alliance Sends Stocks Soaring",
+                "article_url": "https://finance.yahoo.com/news/amazon-jabils-game-changing-alliance-153912781.html",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9NUhDMchatpV-aMaGNPZiYgSjKeiTUN4J8T4_cf3JanhkTUnSiLCI0ksI9eY",
+                "source": "Yahoo Finance",
+                "post_time_utc": "2025-01-03 15:39:12"
+            },
+            {
+                "article_title": "Bill Gates, Amazon's CTO, and other tech leaders share their predictions \nfor 2025",
+                "article_url": "https://www.businessinsider.com/tech-leaders-bill-gates-amazon-cto-share-2025-predictions-2025-1",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTonSdXBUcGa4ZJ0AUYYVOXtfVW56m84VaBrheRbUDctU_UQm5jdFTJyM2s9w",
+                "source": "Business Insider",
+                "post_time_utc": "2025-01-03 19:29:00"
+            },
+            {
+                "article_title": "Amazon offering 'full support' to employee injured in New Orleans terror \nattack",
+                "article_url": "https://www.foxbusiness.com/lifestyle/amazon-offering-full-support-employee-injured-new-orleans-terror-attack",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQV790C7X2NRnTND5iO6ay3MTt5Nlda2rD86gWGRP6yUDCk5ylVV7OPBlA1yfE",
+                "source": "Fox Business",
+                "post_time_utc": "2025-01-03 19:56:00"
+            },
+            {
+                "article_title": "Microsoft vs. Amazon: Which Cloud-Computing Stock Will Outperform in 2025?",
+                "article_url": "https://www.fool.com/investing/2025/01/03/microsoft-vs-amazon-which-cloud-computing-stock-wi/",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQWj_1dOqCbUieenPPJEbfJG5MTKWxvLvwKaqeW35yUJzQL1jNSHcAQd7YiUw",
+                "source": "The Motley Fool",
+                "post_time_utc": "2025-01-03 10:45:00"
+            },
+            {
+                "article_title": "Amazon's back-to-office deadline hit. You wouldn't know it in Seattle",
+                "article_url": "https://www.seattletimes.com/business/amazon/amazons-seattle-campus-still-quiet-as-5-days-in-office-deadline-hits/",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimK4WA6oim64Mq5wIhS7JWC-7r_P4OOVqsxQXQUb3T1og2sfjmYljvVOPCrc",
+                "source": "The Seattle Times",
+                "post_time_utc": "2025-01-03 00:21:10"
+            },
+            {
+                "article_title": "Amazon Workers Return to the Office Today. Business Leaders Are Watching",
+                "article_url": "https://www.inc.com/sarahlynch/amazon-workers-return-to-the-office-today-business-leaders-are-watching/91101827",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbdrdZsEV6-VfZ87efSWoKNuUugjxTRAi2Sb7DQBskREtqR3b_ipFsolCsdm0",
+                "source": "Inc.com",
+                "post_time_utc": "2025-01-02 18:03:22"
+            },
+            {
+                "article_title": "Jabil issues warrant for up to 1.16M shares to Amazon",
+                "article_url": "https://seekingalpha.com/news/4392339-jabil-issues-warrant-for-up-to-116m-shares-to-amazon",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFgUK_Ru_Beo-zwP1XK3t0pFbJ3FjPeY0-DnMggJMpTLCL3LbayXQikW395MU",
+                "source": "Seeking Alpha",
+                "post_time_utc": "2025-01-03 14:42:00"
+            },
+            {
+                "article_title": "Amazon could acquire Lyft this year, The Information says",
+                "article_url": "https://www.tipranks.com/news/the-fly/amazon-could-acquire-lyft-this-year-the-information-says",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxmbrsa4AeTNUg-Zhx42MLzJPut3WcCpGOn1Xh2ZdILtXiNYycbsAYax16FPI",
+                "source": "TipRanks",
+                "post_time_utc": "2025-01-02 16:30:55"
+            },
+            {
+                "article_title": "Notable Friday Option Activity: AMZN, HUN, MRNA",
+                "article_url": "https://www.nasdaq.com/articles/notable-friday-option-activity-amzn-hun-mrna",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAV1B0FqAO8x7jWid2is5iJO54v1kzw2ZQbMKsBtfL5g5g9UIza6B4JZ36gfY",
+                "source": "Nasdaq",
+                "post_time_utc": "2025-01-03 20:37:00"
+            },
+            {
+                "article_title": "\u2018Free Luigi Mangione\u2019 merchandise is flooding Amazon and other e-commerce \nplatforms",
+                "article_url": "https://www.fastcompany.com/91243917/free-luigi-mangione-shirts-merchandise-amazon-platforms-ceo-shooting-suspect",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRli9Cyv5LOcSUFXAzPI11F2Gi5MyHRkfeREZxfDL6hxQj-4S4elPuvl7vTD4Q",
+                "source": "Fast Company",
+                "post_time_utc": "2024-12-10 08:00:00"
+            },
+            {
+                "article_title": "Are Amazon\u2019s Drones Finally Ready for Prime Time?",
+                "article_url": "https://www.nytimes.com/2024/12/20/technology/amazon-prime-air-drone-delivery.html",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7qXpMX9djFIeZQ17uNjMlhDSqBlcNN99zwKYIDEVYxPrcG8btYfQtMpqamYI",
+                "source": "The New York Times",
+                "post_time_utc": "2024-12-20 08:00:00"
+            },
+            {
+                "article_title": "Message from CEO Andy Jassy: Strengthening our culture and teams",
+                "article_url": "https://www.aboutamazon.com/news/company-news/ceo-andy-jassy-latest-update-on-amazon-return-to-office-manager-team-ratio",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFP8HXjLEprVH6L5CekLW2iN-nyb39rKlf6jpTJk_ZHvXtdh46Tizcu5003Rs",
+                "source": "AboutAmazon.com",
+                "post_time_utc": "2024-09-16 07:00:00"
+            },
+            {
+                "article_title": "Amazon sued over slower deliveries to low-income neighborhoods",
+                "article_url": "https://www.cbsnews.com/news/amazon-prime-sued-over-slower-deliveries-to-low-income-neighborhoods/",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGqw40UNA1P80Aci8OIAtIxuhBcg6n11CmjMQKFuM1GW3NVePY8KLzgnZlFI",
+                "source": "CBS News",
+                "post_time_utc": "2024-12-04 08:00:00"
+            },
+            {
+                "article_title": "Amazon is officially in the online car sales business",
+                "article_url": "https://techcrunch.com/2024/12/10/amazon-is-officially-in-the-online-car-sales-business/",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxW6wMXdWvhv3pH_q2TgrzoHZaSlzSYiHJFHe4qIfka-3j7cHgPjwPiSn_c4s",
+                "source": "TechCrunch",
+                "post_time_utc": "2024-12-10 08:00:00"
+            },
+            {
+                "article_title": "Amazon and the endangered future of the middle manager",
+                "article_url": "https://www.cnbc.com/2024/12/15/amazon-and-the-endangered-future-of-the-middle-manager.html",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1llVtzWThRLKw2wcgvVFBCoEZJ1y9mH1sawKTJSG3V-XDZxoSFoOI_u9vXgY",
+                "source": "CNBC",
+                "post_time_utc": "2024-12-15 08:00:00"
+            },
+            {
+                "article_title": "Amazon workers authorize strike at company's first-ever unionized warehouse",
+                "article_url": "https://abcnews.go.com/US/amazon-workers-authorize-strike-companys-unionized-warehouse/story?id=116767350",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE-iCN6eDvO9JX8XYRFwTYSLObsFDx8Fxk0u1NYtBnmMc_xdrQlkwr9XZAdRI",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "post_time_utc": "2024-12-13 08:00:00"
+            },
+            {
+                "article_title": "Amazon is the latest Big Tech company to donate $1mn to Trump fund",
+                "article_url": "https://www.ft.com/content/edf123e3-47b0-41ee-a497-23bdb1a35a34",
+                "article_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5nZLMyQsTWC2cQEZpKKKIvwXIPn-BeY02LhezJUYWG2N_zSoeWjDThZOIF8U",
+                "source": "Financial Times",
+                "post_time_utc": "2024-12-12 08:00:00"
+            },
+            {
+                "article_title": "Amazon founder Jeff Bezos kept his base salary modest during his 20 years \nas CEO. It likely saved him millions in taxes",
+                "article_url": "https://fortune.com/2024/12/11/amazon-ceo-founder-jeff-bezos-salary-80000-avoided-taxes/",
+                "article_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn6IXnVP52PC7k5uqZJw4mu5A-qY2AGkW7mBg3abPI2YxgAY8sKY1vuWvDVqw",
+                "source": "Fortune",
+                "post_time_utc": "2024-12-11 08:00:00"
+            },
+            {
+                "article_title": "Amazon Shares Rise After AWS Announces AI Supercomputer Nvidia Rival\u2014Here\u2019s \nWhat To Know",
+                "article_url": "https://www.forbes.com/sites/stephenpastis/2024/12/03/amazon-shares-rise-after-aws-announces-ai-supercomputer-nvidia-rival-heres-what-to-know/",
+                "article_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4USZUpZlPZ-gEpUANQb-0seERJUcis0w7qno5h0zYmLGBA36bMnwf30kSIcw",
+                "source": "Forbes",
+                "post_time_utc": "2024-12-04 08:00:00"
+            }
+        ]
+    }
+}
